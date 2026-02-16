@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-"I am a versatile ICT Manager and Cybersecurity Analyst with a mission to bridge the gap between robust technical infrastructure and advanced data security. With over 5 years of experience leading IT operations, I specialize in transforming complex data into actionable insights through AWS QuickSight and securing organizational assets against evolving zero-day threats.
+I am an ICT Manager and Cybersecurity Analyst with over five years of experience leading IT operations, software systems, and cloud infrastructure. With a background in Software Development and Google IT Support, I bring both development-level insight and operational expertise to securing and managing business-critical systems.
 
-My journey began in Information Science, where I developed a foundation in data integrity and system administration. Today, I am deepening my expertise through the Cyber Shujaa program, focusing on threat intelligence, risk assessment, and incident response.
+I have hands-on experience managing AWS-hosted environments, responding to ransomware and zero-day vulnerability incidents, conducting vulnerability assessments, and aligning security operations with legal and data protection requirements. My training through the Cyber Shujaa program has further strengthened my expertise in threat intelligence, risk assessment, and structured incident response.
 
-Whether I am refactoring code to neutralize vulnerabilities or architecting scalable cloud solutions, my goal is to create a secure 'digital customer journey' that empowers business growth while maintaining a 99.9% system uptime. When I'm not monitoring administration consoles, I am a passionate advocate for security awareness, ensuring that every team member is a strong link in the organizational defense chain."
+By combining development knowledge, infrastructure management, and cybersecurity strategy, I bridge the gap between building systems and protecting them. My goal is to design resilient, secure digital environments that support business growth while maintaining operational stability and data integrity.
