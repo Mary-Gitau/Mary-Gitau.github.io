@@ -8,5 +8,11 @@ image:
   alt: Visualizing the connection between threats and vulnerabilities
 ---
 
+## Introduction
+In modern cybersecurity, knowing your weaknesses is only half the battle. To stay ahead of sophisticated adversaries, organizations must marry Vulnerability Assessment (VA) with Threat Intelligence (TI). This synergy creates a 'Threat-Informed Defense' that prioritizes remediation based on real-world risk rather than just theoretical CVSS scores
+
 ## Technical knowledge
-I navivated the NESSUS and OpenVas platforms.
+Your primary engines for identifying CVEs (Common Vulnerabilities and Exposures).
+
+## Tools
+NESSUS OpenVAS
