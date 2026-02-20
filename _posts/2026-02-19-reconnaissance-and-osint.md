@@ -2,7 +2,7 @@
 title: Reconnaissance and OSINT
 date: 2026-02-19 15:30:00 +0300
 categories: [Cybersecurity, Data Intelligence]
-tags: [OSINT, Reconnaissance, Data-Mining]
+tags: [OSINT, Reconnaissance, Data-Mining,Python Scripting]
 ---
 
 ## The Intelligence Phase
