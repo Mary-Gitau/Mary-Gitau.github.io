@@ -8,5 +8,5 @@ image:
   alt: Visualizing the connection between threats and vulnerabilities
 ---
 
-## Technical Aspect##
+## Technical knowledge
 I navivated the NESSUS and OpenVas platforms.
