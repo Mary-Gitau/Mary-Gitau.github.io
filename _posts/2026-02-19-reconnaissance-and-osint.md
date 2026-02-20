@@ -6,7 +6,21 @@ tags: [OSINT, Reconnaissance, Data-Mining]
 ---
 
 ## The Intelligence Phase
-Reconnaissance revealed critical "system noise"—circular dependencies in the 2022–2026 Master Repossession Log. 
+Gathering information about a target before attacking it.
+
+OSINT-It’s intelligence gathered from publicly available sources.
 
 ## Technical Solution
-Applied OSINT techniques to filter data, optimizing the dashboard for HPU and HCF recovery metrics using advanced Google Sheets logic.
+In the technical part of OSINT, i used tools such as:
+
+Cisco Talos – threat intelligence
+
+Abuse.ch – malware tracking
+
+urlscan.io – website analysis
+
+Shodan – exposed devices search
+
+theHarvester – email/domain collection
+
+Maltego – visual link analysis
