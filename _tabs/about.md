@@ -1,11 +1,32 @@
+
+
+## Professional Summary
+**ICT Manager & Cybersecurity Analyst** with 5+ years of experience bridging the gap between infrastructure management, software development, and defensive security. I specialize in designing resilient digital environments and leading incident response efforts against high-stakes threats like ransomware and zero-day vulnerabilities.
+
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+
+## Core Competencies
+* **Security Operations:** Vulnerability management (Nessus/OpenVAS), Threat Intelligence (MITRE ATT&CK), and Incident Response.
+* **Infrastructure & Cloud:** AWS-hosted environment management, Windows/Linux administration, and Google IT Support expertise.
+* **Development-Led Security:** Leveraging a background in Software Development to identify logic flaws and secure the SDLC.
+* **Compliance & Risk:** Aligning technical security with data protection laws and NIST 800-115 frameworks.
+
 ---
 
-I am an ICT Manager and Cybersecurity Analyst with over five years of experience leading IT operations, software systems, and cloud infrastructure. With a background in Software Development and Google IT Support, I bring both development-level insight and operational expertise to securing and managing business-critical systems.
+## Technical Proficiency
 
-I have hands-on experience managing AWS-hosted environments, responding to ransomware and zero-day vulnerability incidents, conducting vulnerability assessments, and aligning security operations with legal and data protection requirements. My training through the Cyber Shujaa program has further strengthened my expertise in threat intelligence, risk assessment, and structured incident response.
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Vulnerability Mgmt** | Nessus, OpenVAS (GVM), Qualys |
+| **Reconnaissance** | Nmap, Shodan, Whois, theHarvester |
+| **Threat Intelligence** | MITRE ATT&CK, AlienVault OTX, CVE/NVD Analysis |
+| **Operating Systems** | Kali Linux, Windows Server, Ubuntu |
+| **Cloud & Systems** | AWS (EC2/S3), Google IT Support, Software Dev |
+| **Methodologies** | NIST 800-115, OSINT, Threat-Led Defense |
 
-By combining development knowledge, infrastructure management, and cybersecurity strategy, I bridge the gap between building systems and protecting them. My goal is to design resilient, secure digital environments that support business growth while maintaining operational stability and data integrity.
+---
+
+## Featured Project: Threat-Led Vulnerability Lab
+I recently documented a full-scale vulnerability assessment project using Nessus to identify and prioritize critical Apache Tomcat exploits. 
+[View the Project Details](/posts/vulnerability-lab-project/)
+
