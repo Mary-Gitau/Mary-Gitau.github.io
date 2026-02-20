@@ -7,3 +7,6 @@ image:
   path: /assets/img/posts/threat-intel.png
   alt: Visualizing the connection between threats and vulnerabilities
 ---
+
+## Technical Aspect##
+I navivated the NESSUS and OpenVas platforms.
